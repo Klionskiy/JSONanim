@@ -1,0 +1,132 @@
+{
+"header":[
+{
+"image_url":"https://storage.googleapis.com/shared_data/MKGn299XpJ6mn9c6/images/homepage/20/watsons_header_1.jpg",
+"search_str":"INNER JOIN CategoryProduct_MM cp ON (Products.PrdID = cp.PrdID AND cp.CategoryID = 3331)",
+"query":"Category|categoryId|3331"
+},
+{
+"image_url":"https://storage.googleapis.com/shared_data/MKGn299XpJ6mn9c6/images/homepage/20/watsons_header_2.jpg",
+"search_str":"INNER JOIN CategoryProduct_MM cp ON (Products.PrdID = cp.PrdID AND cp.CategoryID = 3332)",
+"query":"Category|categoryId|3332"
+},
+{
+"image_url":"https://storage.googleapis.com/shared_data/MKGn299XpJ6mn9c6/images/homepage/20/watsons_header_3.jpg",
+"search_str":"INNER JOIN CategoryProduct_MM cp ON (Products.PrdID = cp.PrdID AND cp.CategoryID = 3335)",
+"query":"Category|categoryId|3335"
+}
+],
+"homepage":[
+{
+"type":"single_promo",
+"data":{
+"image_url":"https://storage.googleapis.com/shared_data/MKGn299XpJ6mn9c6/images/homepage/20/watsons_single_promo_1.jpg",
+"search_str_start":"INNER JOIN CategoryProduct_MM cp ON (Products.PrdID = cp.PrdID AND cp.CategoryID = 3333)",
+"query":"Category|categoryId|3333"
+}
+},
+{
+"type":"single_promo",
+"data":{
+"image_url":"https://storage.googleapis.com/shared_data/MKGn299XpJ6mn9c6/images/homepage/20/watsons_single_promo_2.jpg",
+"search_str_start":"INNER JOIN CategoryProduct_MM cp ON (Products.PrdID = cp.PrdID AND cp.CategoryID = 3334)",
+"query":"Category|categoryId|3334"
+}
+},
+{
+"type":"location",
+"data":[
+
+]
+},
+{
+"type":"bestsellers",
+"data":[
+{
+"product_id":628334,
+"product_brand":"",
+"product_name":"",
+"product_desc":"",
+"currency":"",
+"price":14.5,
+"old_price":29.1,
+"save":14.6,
+"promo_text":"DEAL OF THE WEEK",
+"promo_color":"#E10B2C"
+},
+{
+"product_id":630352,
+"product_brand":"",
+"product_name":"",
+"product_desc":"",
+"currency":"",
+"price":22.9,
+"old_price":46.0,
+"save":23.1,
+"promo_text":"DEAL OF THE WEEK",
+"promo_color":"#E10B2C"
+},
+{
+"product_id":628523,
+"product_brand":"",
+"product_name":"",
+"product_desc":"",
+"currency":"",
+"price":67.4,
+"old_price":135.4,
+"save":68.0,
+"promo_text":"DEAL OF THE WEEK",
+"promo_color":"#E10B2C"
+},
+{
+"product_id":628912,
+"product_brand":"",
+"product_name":"",
+"product_desc":"",
+"currency":"",
+"price":19.9,
+"old_price":39.9,
+"save":20.0,
+"promo_text":"DEAL OF THE WEEK",
+"promo_color":"#E10B2C"
+},
+{
+"product_id":629572,
+"product_brand":"",
+"product_name":"",
+"product_desc":"",
+"currency":"",
+"price":13.9,
+"old_price":27.9,
+"save":14.0,
+"promo_text":"DEAL OF THE WEEK",
+"promo_color":"#E10B2C"
+},
+{
+"product_id":629487,
+"product_brand":"",
+"product_name":"",
+"product_desc":"",
+"currency":"",
+"price":18.9,
+"old_price":37.9,
+"save":19.0,
+"promo_text":"DEAL OF THE WEEK",
+"promo_color":"#E10B2C"
+},
+{
+"product_id":629737,
+"product_brand":"",
+"product_name":"",
+"product_desc":"",
+"currency":"",
+"price":53.9,
+"old_price":108.3,
+"save":54.4,
+"promo_text":"DEAL OF THE WEEK",
+"promo_color":"#E10B2C"
+}
+]
+}
+]
+}
